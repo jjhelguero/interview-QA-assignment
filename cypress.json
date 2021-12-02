@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://www.myndshftbaseurl.com",
+  "env": {
+    "patients_endpoint": "/api/v1/patients",
+    "patientByID_endpoint": "/api/v1/patients/",
+    "auth_username": "username",
+    "auth_password": "password",
+    "unauth_username": "unauth_username",
+    "unauth_password": "unauth_password",
+    "forbidden_username": "forbidden_username",
+    "forbidden_password": "forbidden_password"
+  }
+
+}

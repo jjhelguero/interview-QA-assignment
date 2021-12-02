@@ -1,0 +1,24 @@
+{
+  "name": "takehome",
+  "version": "1.0.0",
+  "description": "_Quality Engineer_",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "cypress": "^8.5.0",
+    "cy-spok": "^1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://eae21a38-6e69-4f10-98b7-a420bad1e2ef:cRfk34uIfg-2SCtHDXFOB-1Qf@git.takehome.io/eae21a38-6e69-4f10-98b7-a420bad1e2ef"
+  },
+  "author": "jjhelguero",
+  "license": "ISC"
+}
