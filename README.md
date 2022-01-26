@@ -1,4 +1,4 @@
-# Myndshft Applicant Take Home
+# Applicant Take Home
 _Quality Engineer_
 
 ## Introduction
