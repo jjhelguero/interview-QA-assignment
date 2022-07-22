@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "dependencies": {
-    "cypress": "^8.5.0",
+    "cypress": "^10.0.0",
     "cy-spok": "^1.3.4"
   },
   "scripts": {
