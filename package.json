@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "cypress": "10.0.0",
-    "cy-spok": "1.5.2"
+    "cy-spok": "1.6.1"
   },
   "scripts": {
     "cy:open": "cypress open",
